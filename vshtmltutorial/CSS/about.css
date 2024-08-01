@@ -1,0 +1,47 @@
+body{
+ background-color: whitesmoke;
+}
+
+/* h2{
+ font-size: 50px;
+} */
+
+/* h3 a{
+ text-decoration: none;
+} */
+
+/* img{
+ max-width: 90%;
+} */
+ /* table{
+  font-family: 'Courier New', Courier, monospace; 
+  border-collapse: collapse;
+ }
+
+ td,
+ th{
+  border: 1px solid #000000;
+ } */
+/* ul{
+ text-align: center;
+ list-style-type: none;
+ list-style-type: armenian;
+ list-style-type: georgian;
+ list-style-type: lower-roman;
+} */
+/* ol{
+ list-style-type: lower-alpha;
+ list-style-type: upper-alpha;
+} */
+
+h2,p,
+span,
+strong{
+ border: 1px solid gray;
+}
+#title{
+ text-align: center;
+ background: palegoldenrod;
+ color: #000000;
+ padding: 10px;
+}
